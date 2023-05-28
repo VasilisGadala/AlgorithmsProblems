@@ -21,8 +21,13 @@ Functional skip list. In this case I inserted the values within the first 3 line
 
 **Binomial Heap:**
 
-Functional Binomial Heap. 
+Functional Binomial Heap. The output can be compared to that of a visualizer:
 
+Visualizer (from https://www.cs.usfca.edu/~galles/visualization/BinomialQueue.html)
+![image](https://github.com/VasilisGadala/AlgorithmsProblems/assets/30811770/7c925072-8ed1-4bbc-af9a-b8e67075ca2e)
+
+Output:
 ![image](https://github.com/VasilisGadala/AlgorithmsProblems/assets/30811770/6f9b9897-001d-451c-93f2-55689038171c)
+
 
 
